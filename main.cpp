@@ -3,6 +3,6 @@
 #include <lista>
 
 int main() {
-  
+
   return 0;
 }
